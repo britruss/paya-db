@@ -1,0 +1,223 @@
+# contains: components (recipes + macros) for a mix-and-match smoothie
+/section/
+
+/next/
+Bone broth, base, 18 servings
+- 3.1lb beef feet, boiled
+- 4.4L water (2.2L water per batch)
+- 4 tbsp ACV (2 tbsp ACV per batch)
+
+calories, 40 kcal
+protein, 9g
+fiber, 0g
+carbs, 0g
+fat, 0g
+
+/next/
+
+Greek yogurt, base, 1 serving
+- 80g plain Greek yogurt, 0%
+- 80g water, for blending
+
+calories, 48 kcal
+protein, 8g
+fiber, 0g
+carbs, 3g
+fat, 0g
+
+/next/
+
+Chickpeas, legume, 12 servings
+- 16oz (454g) chickpeas, dry
+- 1800g water, for soaking
+- 1800g water, for boiling
+
+calories, 135 kcal
+protein, 7g
+fiber, 6g
+carbs, 22g
+fat, 3g
+
+/next/
+
+Red lentils, legume, 12 servings
+- 16oz (454g) red lentils, dry
+- 1362g water, for boiling
+
+calories, 135 kcal
+protein, 9g
+fiber, 4g
+carbs, 24g
+fat, 1g
+
+/next/
+
+Hemp milk, liquid, 1 serving
+- 20g hemp hearts, hulled
+- 20g dates, pitted
+- 120g water, for blending
+
+calories, 170 kcal
+protein, 6g
+fiber, 3g
+carbs, 18g
+fat, 10g
+
+/next/
+
+Oat milk, liquid, 1 serving
+- 40g rolled oats, dry
+- 120g water, for blending
+
+calories, 150 kcal
+protein, 5g
+fiber, 4g
+carbs, 27g
+fat, 3g
+
+/next/
+
+Coconut milk, liquid, 1 serving
+- 60g coconut milk, full-fat
+- 100g water, for blending
+
+calories, 120 kcal
+protein, 1g
+fiber, 0g
+carbs, 2g
+fat, 12g
+
+/next/
+
+Soy milk, liquid, 1 serving
+- 160g soy milk, unsweetened
+
+calories, 55 kcal
+protein, 5g
+fiber, 1g
+carbs, 2g
+fat, 3g
+
+/next/
+
+Peanut milk, liquid, 1 serving
+- 20g peanut butter, natural
+- 140g water, for blending
+
+calories, 120 kcal
+protein, 5g
+fiber, 1g
+carbs, 4g
+fat, 10g
+
+/next/
+
+Banana, fruit, 1 serving
+- 100g banana, frozen
+
+calories, 90 kcal
+protein, 1g
+fiber, 3g
+carbs, 23g
+fat, 0g
+
+/next/
+
+Pineapple, fruit, 1 serving
+- 100g pineapple, frozen
+
+calories, 50 kcal
+protein, 0g
+fiber, 1g
+carbs, 13g
+fat, 0g
+
+/next/
+
+Mango, fruit, 1 serving
+- 100g mango, frozen
+
+calories, 60 kcal
+protein, 1g
+fiber, 2g
+carbs, 15g
+fat, 0g
+
+/next/
+
+Strawberry, fruit, 1 serving
+- 100g strawberry, frozen
+
+calories, 32 kcal
+protein, 1g
+fiber, 2g
+carbs, 8g
+fat, 0g
+
+/next/
+
+Blueberry, fruit, 1 serving
+- 100g blueberry, frozen
+
+calories, 57 kcal
+protein, 0.7g
+fiber, 2g
+carbs, 15g
+fat, 0g
+
+/next/
+
+Spinach, veggie, 1 serving
+- 50g spinach, fresh or frozen
+
+calories, 12 kcal
+protein, 1g
+fiber, 1g
+carbs, 2g
+fat, 0g
+
+/next/
+
+Kale, veggie, 1 serving
+- 50g kale, chopped (stems removed)
+
+calories, 22 kcal
+protein, 1g
+fiber, 2g
+carbs, 4g
+fat, 0g
+
+/next/
+
+Zucchini, veggie, 1 serving
+- 50g zucchini, frozen
+
+calories, 8 kcal
+protein, 1g
+fiber, 1g
+carbs, 2g
+fat, 0g
+
+/next/
+
+Cauliflower, veggie, 1 serving
+- 50g cauliflower, frozen
+
+calories, 12 kcal
+protein, 1g
+fiber, 1g
+carbs, 3g
+fat, 0g
+
+/next/
+
+Beetroot, veggie, 1 serving
+- 50g beetroot, boiled
+
+calories, 21 kcal
+protein, 0g
+fiber, 1g
+carbs, 5g
+fat, 0g
+
+/done/
