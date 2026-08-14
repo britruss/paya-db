@@ -1,0 +1,270 @@
+# contains: components (recipes + macros) for a mix-and-match egg bites
+/section/
+
+/next/
+
+Bell pepper, veggie, 6 servings
+- 100g bell pepper, weighed after mincing and squeezing dry
+
+calories, 5 kcal
+protein, 0g
+fiber, 0g
+carbs, 1g
+fat, 0g
+
+/next/
+
+Onion, veggie, 6 servings
+- 50g onion, weighed after mincing and squeezing dry
+
+calories, 3 kcal
+protein, 0g
+fiber, 0g
+carbs, 1g
+fat, 0g
+
+/next/
+
+Spinach, veggie, 6 servings
+- 60g spinach, from frozen weighed after thawing and squeezing dry
+
+calories, 3 kcal
+protein, 0g
+fiber, 0g
+carbs, 0g
+fat, 0g
+
+/next/
+
+Bacon, meat, 6 servings
+- 6oz bacon, weighed raw then cooked and drained
+
+calories, 45 kcal
+protein, 3g
+fiber, 0g
+carbs, 0g
+fat, 4g
+
+/next/
+
+/next/
+
+Mushrooms, veggie, 6 servings
+- 100g cremini mushrooms, weighed raw then sautéed
+
+calories, 4 kcal
+protein, 0g
+fiber, 0g
+carbs, 1g
+fat, 0g
+
+/next/
+
+Zucchini, veggie, 6 servings
+- 100g zucchini, weighed after finely grating and squeezing dry
+
+calories, 3 kcal
+protein, 0g
+fiber, 0g
+carbs, 1g
+fat, 0g
+
+/next/
+
+Sun-dried tomatoes, veggie, 6 servings
+- 30g sun-dried tomatoes (oil drained), finely chopped
+
+calories, 13 kcal
+protein, 0g
+fiber, 0g
+carbs, 3g
+fat, 0g
+
+/next/
+
+Jalapeño, veggie, 6 servings
+- 40g pickled jalapeños, diced
+
+calories, 2 kcal
+protein, 0g
+fiber, 0g
+carbs, 1g
+fat, 0g
+
+/next/
+
+Sharp cheddar, base, 6 servings
+- 75g sharp cheddar, shredded
+
+calories, 51 kcal
+protein, 3g
+fiber, 0g
+carbs, 0g
+fat, 4g
+
+/next/
+
+Gruyère, base, 6 servings
+- 75g gruyere cheese, shredded
+
+calories, 52 kcal
+protein, 4g
+fiber, 0g
+carbs, 0g
+fat, 4g
+
+/next/
+
+Feta, base, 6 servings
+- 60g feta cheese, crumbled
+
+calories, 26 kcal
+protein, 1g
+fiber, 0g
+carbs, 0g
+fat, 2g
+
+/next/
+
+Goat cheese, base, 6 servings
+- 60g goat cheese, crumbled
+
+calories, 27 kcal
+protein, 2g
+fiber, 0g
+carbs, 0g
+fat, 2g
+
+/next/
+
+Pork breakfast sausage, meat, 6 servings
+- 6oz breakfast sausage, weighed raw then cooked and drained
+
+calories, 70 kcal
+protein, 4g
+fiber, 0g
+carbs, 0g
+fat, 6g
+
+/next/
+
+Cottage cheese, base, 6 servings
+- 225g cottage cheese, 2%
+
+calories, 31 kcal
+protein, 4g
+fiber, 0g
+carbs, 2g
+fat, 1g
+
+/next/
+
+Parmesan, base, 6 servings
+- 75g parmesan cheese, shredded
+
+calories, 52 kcal
+protein, 4g
+fiber, 0g
+carbs, 0g
+fat, 4g
+
+/next/
+
+Egg whites from xl eggs (454g), base, 6 servings
+- 12 whites, xl egg
+
+calories, 39 kcal
+protein, 8g
+fiber, 0g
+carbs, 0g
+fat, 0g
+
+/next/
+
+Egg whites from large eggs (454g), base, 6 servings
+- 14 whites, large egg
+
+calories, 39 kcal
+protein, 8g
+fiber, 0g
+carbs, 0g
+fat, 0g
+
+/next/
+
+Egg whites from medium eggs (454g), base, 6 servings
+- 16 whites, medium egg
+
+calories, 39 kcal
+protein, 8g
+fiber, 0g
+carbs, 0g
+fat, 0g
+
+/next/
+
+Egg whites from small eggs (454g), base, 6 servings
+- 20 whites, small egg
+
+calories, 39 kcal
+protein, 8g
+fiber, 0g
+carbs, 0g
+fat, 0g
+
+/next/
+
+Egg yolk from xl eggs (75g), base, 6 servings
+- 4 yolks, xl egg
+
+calories, 40 kcal
+protein, 2g
+fiber, 0g
+carbs, 0g
+fat, 3g
+
+/next/
+
+Egg yolk from large eggs (75g), base, 6 servings
+- 4.5 yolks, large egg
+
+calories, 40 kcal
+protein, 2g
+fiber, 0g
+carbs, 0g
+fat, 3g
+
+/next/
+
+Egg yolk from medium eggs (75g), base, 6 servings
+- 5 yolks, medium egg
+
+calories, 40 kcal
+protein, 2g
+fiber, 0g
+carbs, 0g
+fat, 3g
+
+/next/
+
+Egg yolk from small eggs (75g), base, 6 servings
+- 6 yolks, small egg
+
+calories, 40 kcal
+protein, 2g
+fiber, 0g
+carbs, 0g
+fat, 3g
+
+/next/
+
+Oil, fat, 6 servings
+- 14g oil
+
+calories, 21 kcal
+protein, 0g
+fiber, 0g
+carbs, 0g
+fat, 3g
+
+/done/
