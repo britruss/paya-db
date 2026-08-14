@@ -1,0 +1,273 @@
+# contains: components (recipes + macros) for a mix-and-match simpson dinner
+/section/
+
+/next/
+
+Chicken breast, protein, 1 serving
+- 5 oz chicken breast, raw
+
+calories, 170 kcal
+protein, 32g
+fiber, 0g
+carbs, 0g
+fat, 4g
+
+/next/
+
+Salmon, protein, 1 serving
+- 5 oz salmon, raw
+
+calories, 295 kcal
+protein, 29g
+fiber, 0g
+carbs, 0g
+fat, 19g
+
+/next/
+
+80/20 Beef, protein, 1 serving
+- 5 oz beef, raw
+
+calories, 360 kcal
+protein, 24g
+fiber, 0g
+carbs, 0g
+fat, 29g
+
+/next/
+
+90/10 Beef, protein, 1 serving
+- 4.5 oz beef, raw
+
+calories, 225 kcal
+protein, 25g
+fiber, 0g
+carbs, 0g
+fat, 13g
+
+/next/
+
+Tofu, protein, 1 serving
+- 6 oz super firm tofu, weighed before using tofu press
+
+calories, 240 kcal
+protein, 24g
+fiber, 2g
+carbs, 4g
+fat, 12g
+
+/next/
+
+Chickpeas, protein, 1 serving
+- 2.3 oz chickpeas, dry
+- 260g water, for soaking
+- 260g water, for boiling
+
+calories, 246 kcal
+protein, 13g
+fiber, 8g
+carbs, 41g
+fat, 4g
+
+/next/
+
+Potato, carbs, 6 servings
+- 690g potato, raw
+- 1380g water, for boiling
+
+calories, 89 kcal
+protein, 2g
+fiber, 3g
+carbs, 20g
+fat, 0g
+
+/next/
+
+Jasmine rice, carbs, 6 servings
+- 270g rice, raw
+- 525g water, bring to a boil
+
+calories, 164 kcal
+protein, 3g
+fiber, 0g
+carbs, 36g
+fat, 0g
+
+/next/
+
+Basmati rice, carbs, 6 servings
+- 270g rice, raw
+- 525g water, bring to a boil
+
+calories, 164 kcal
+protein, 3g
+fiber, 0g
+carbs, 36g
+fat, 0g
+
+/next/
+
+Onion, seasoning, 1 serving
+- 30g onion, weighed after mincing and squeezing dry
+
+calories, 12 kcal
+protein, 0g
+fiber, 0g
+carbs, 3g
+fat, 0g
+
+/next/
+
+Garlic, seasoning, 1 serving
+- 15g garlic clove, minced
+
+calories, 22 kcal
+protein, 1g
+fiber, 0g
+carbs, 5g
+fat, 0g
+
+/next/
+
+Broccoli, veggie, 1 serving
+- 100g broccoli, raw
+
+calories, 34 kcal
+protein, 3g
+fiber, 2g
+carbs, 7g
+fat, 0g
+
+/next/
+
+Carrot, veggie, 1 serving
+- 100g carrots, raw
+
+calories, 41 kcal
+protein, 0g
+fiber, 3g
+carbs, 10g
+fat, 0g
+
+/next/
+
+Beet, veggie, 1 serving
+- 100g beets, raw
+
+calories, 43 kcal
+protein, 1g
+fiber, 3g
+carbs, 10g
+fat, 0g
+
+/next/
+
+Oil, fat, 1 serving
+- 28g oil
+
+calories, 248 kcal
+protein, 0g
+fiber, 0g
+carbs, 0g
+fat, 28g
+
+/next/
+
+Coconut oil, fat, 1 serving
+- 28g oil
+
+calories, 241 kcal
+protein, 0g
+fiber, 0g
+carbs, 0g
+fat, 28g
+
+/next/
+
+Ghee, fat, 1 serving
+- 28g ghee
+
+calories, 252 kcal
+protein, 0g
+fiber, 0g
+carbs, 0g
+fat, 28g
+
+/next/
+
+Butter, fat, 1 serving
+- 28g butter, unsalted
+
+calories, 201 kcal
+protein, 0.2g
+fiber, 0g
+carbs, 0g
+fat, 22.7g
+
+/next/
+
+Vinegar, acid, 1 serving
+- 15g vinegar
+
+calories, 3 kcal
+protein, 0g
+fiber, 0g
+carbs, 1g
+fat, 0g
+
+/next/
+
+Lemon juice, acid, 1 serving
+- 15g lemon juice
+
+calories, 4 kcal
+protein, 0g
+fiber, 0g
+carbs, 1g
+fat, 0g
+
+/next/
+
+Mayo, condiment, 1 serving
+- 10g mayo, full fat
+
+calories, 68 kcal
+protein, 0g
+fiber, 0g
+carbs, 0g
+fat, 8g
+
+/next/
+
+Mustard, condiment, 1 serving
+- 15g mustard
+
+calories, 10 kcal
+protein, 0g
+fiber, 0g
+carbs, 1g
+fat, 1g
+
+/next/
+
+Honey, sweetener, 1 serving
+- 15g honey
+
+calories, 46 kcal
+protein, 0g
+fiber, 0g
+carbs, 12g
+fat, 0g
+
+/next/
+
+Agave, sweetener, 1 serving
+- 15g agave
+
+calories, 46 kcal
+protein, 0g
+fiber, 0g
+carbs, 11g
+fat, 0g
+
+/done/
