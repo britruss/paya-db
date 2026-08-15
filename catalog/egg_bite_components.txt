@@ -93,14 +93,14 @@ fat, 0g
 
 /next/
 
-Sharp cheddar, base, 6 servings
-- 75g sharp cheddar, shredded
+Extra sharp cheddar, base, 6 servings
+- 80g sharp cheddar, shredded
 
-calories, 51 kcal
+calories, 52 kcal
 protein, 3g
 fiber, 0g
 carbs, 0g
-fat, 4g
+fat, 5g
 
 /next/
 
