@@ -7,6 +7,7 @@ Bone broth, base, 18 servings
 - 4.4L water (2.2L water per batch)
 - 4 tbsp ACV (2 tbsp ACV per batch)
 
+- 240g (8 fl oz) serving
 calories, 40 kcal
 protein, 9g
 fiber, 0g
@@ -32,10 +33,11 @@ Chickpeas, legume, 12 servings
 - 1800g water, for soaking
 - 1800g water, for boiling
 
-calories, 135 kcal
+- ~87g serving size
+calories, 140 kcal
 protein, 7g
-fiber, 6g
-carbs, 22g
+fiber, 7g
+carbs, 24g
 fat, 3g
 
 /next/
@@ -44,9 +46,49 @@ Red lentils, legume, 12 servings
 - 16oz (454g) red lentils, dry
 - 1362g water, for boiling
 
+- ~135g serving size
 calories, 135 kcal
 protein, 9g
 fiber, 4g
+carbs, 24g
+fat, 1g
+
+next/
+
+Pinto beans, legume, 12 servings
+- 16oz (454g) pinto beans, dry
+- 1362g water, for boiling
+
+- ~91g serving size
+calories, 130 kcal
+protein, 8g
+fiber, 6g
+carbs, 24g
+fat, 1g
+
+next/
+
+Black beans, legume, 12 servings
+- 16oz (454g) black beans, dry
+- 1362g water, for boiling
+
+- ~87g serving size
+calories, 130 kcal
+protein, 8g
+fiber, 6g
+carbs, 24g
+fat, 1g
+
+next/
+
+Red beans, legume, 12 servings
+- 16oz (454g) red beans, dry
+- 1362g water, for boiling
+
+- ~87g serving size
+calories, 130 kcal
+protein, 8g
+fiber, 6g
 carbs, 24g
 fat, 1g
 
