@@ -1,0 +1,66 @@
+# contains: components (recipes + macros) for marinades
+/section/
+
+/next/
+
+Chipotle lime, for 3 servings of chicken, 5 oz each
+- 30g oil
+- 60g lime juice
+- 50g diced chipotle peppers
+- 10g salt
+- 8g garlic powder
+- 3.5g cumin
+- 3.5g smoked paprika
+- 3.5g onion powder
+- 2g black pepper
+
+per serving
+calories, 146 kcal
+protein, 1g
+fiber, 2g
+carbs, 10g
+fat, 13g
+
+taste profile:
+
+/next/
+
+Rosemary garlic, for 3 servings of chicken, 5 oz each
+- 75g oil
+- 21g agave
+- 10g dried rosemary
+- 10g salt
+- 6g smoked paprika
+- 3g dried oregano
+- 2g black pepper
+
+per serving
+calories, 264 kcal
+protein, 0g
+fiber, 3g
+carbs, 10g
+fat, 26g
+
+taste profile:
+
+/next/
+
+Honey mustard, for 3 servings of chicken, 5 oz each
+- 45g oil
+- 60g agave
+- 60g mustard
+- 15g lemon juice
+- 10g salt
+- 3.5g garlic powder
+- 1.5g black pepper
+
+per serving
+calories, 213 kcal
+protein, 1g
+fiber, 1g
+carbs, 18g
+fat, 16g
+
+taste profile:
+
+/done/
